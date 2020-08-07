@@ -1,5 +1,7 @@
 ###  How to build Salesforce Canvas App in Node.js at Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Slides
 [SF Heroku Canvas Slides](https://mohan-chinnappan-n2.github.io/2019/canvas/canvas.html)
 
