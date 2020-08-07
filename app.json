@@ -1,0 +1,7 @@
+{
+    "name": "Canvas Example",
+    "description": "A Canvas Example",
+    "repository": "https://github.com/shtooney/sf-canvas-node",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "canvas"]
+  }
